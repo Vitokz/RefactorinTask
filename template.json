@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Наимнование",
+    "price": 100,
+    "leftover": 10,
+    "barcodes": [
+      "1100",
+      "1001"
+    ],
+    "vendor_code": "Артикул",
+    "category": "Категория"
+  },
+  {
+    "name": "Наимнование1",
+    "price": 100,
+    "leftover": 10,
+    "barcodes": [
+      "1100",
+      "1001"
+    ],
+    "vendor_code": "Артикул",
+    "category": "Категория"
+  },
+  {
+    "name": "Наимнование2",
+    "price": 100,
+    "leftover": 10,
+    "barcodes": [
+      "1100",
+      "1001"
+    ],
+    "vendor_code": "Артикул",
+    "category": "Категория"
+  },
+  {
+    "name": "Наимнование3",
+    "price": 100,
+    "leftover": 10,
+    "barcodes": [
+      "1100",
+      "1001"
+    ],
+    "vendor_code": "Артикул",
+    "category": "Категория"
+  }
+]
